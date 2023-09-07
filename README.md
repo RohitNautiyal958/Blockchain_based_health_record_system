@@ -1,6 +1,1 @@
-# Medical_Records_Miniproject
-
-
-
-
-[medical_record_project](hospital.html)
+Blockchain based health record system
